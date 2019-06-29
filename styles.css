@@ -1,0 +1,62 @@
+
+/* Header information */
+h3 {font-weight: bold;
+    font-size: 25pt;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color:#332200;
+    text-align: inherit;
+    margin: 0.1em 2em 0.2em 4em;
+   }
+
+/* Cat image information */
+
+img {
+  width: 300px;
+  height: 350;
+  border: 5px solid #332200;
+  margin: inherit;
+  }
+
+/* Text body information */
+.body {
+  width:350px;
+  height: 500;
+  padding: 0.5em;
+  border: 5px solid #332200;
+  margin-top: 20px;
+  margin-right: 10px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+  text-align: left;
+  color:#332200;
+}
+
+/* italic text information */
+em {
+  font-style: italic;
+  color: #332200;
+}
+
+/* bold text information */
+strong {
+  font-weight: bold;
+  color: #b37700;
+}
+
+/* points information */
+span {
+    font-weight: bold;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: #332200;
+}
+
+/* background information*/
+.background{
+background-color: #fff7e6;
+width:400px;
+height: auto;
+padding: 0.5em;
+border: 5px solid #332200;
+margin: 0.1em 1em 0.1em 2em;
+text-align: left;
+}
